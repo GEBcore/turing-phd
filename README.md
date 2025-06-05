@@ -1,0 +1,2 @@
+# turing-phd
+SYSTEMS OF LOGIC BASED ON ORDINALS
